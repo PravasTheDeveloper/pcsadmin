@@ -1,0 +1,33 @@
+@import url('https://fonts.googleapis.com/css2?family=Croissant+One&family=Mooli&display=swap');
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+
+body {
+  background-color: rgb(49, 51, 59);
+  font-family: 'Mooli', sans-serif;
+}
+
+.bg-yellow-color {
+  background-color: rgb(255, 200, 107);
+}
+
+.blue-bg {
+  background-color: rgb(61, 62, 66);
+}
+
+.blue-dark{
+  background-color: rgb(49, 51, 59);
+}
+
+.bg-black-kom{
+  background: #00000085;
+}
